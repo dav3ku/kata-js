@@ -6,6 +6,8 @@
 • Bonus  Challenge:  Try  to  incorporate  input  into  this  program,perhaps with the prompt(..) covered in “Input” on page 6. Youmay prompt the user for their bank account balance, for exam‐ple. Have fun and be creative! 
 */
 
+// PARA PODER VER EL PROGRAMA SE DEBE ACCEDER POR EL ARCHIVO PRACTICA.HTML
+
 // Constantes
 const IVA = 0.16;
 const PRECIO_TEL = 150.89;
