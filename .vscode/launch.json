@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/app.js",
+      "program": "${workspaceFolder}/06 - metodos de ordenamiento/buble.js",
       "skipFiles": ["<node_internals>/**"]
     }
   ]
